@@ -488,7 +488,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02710600CDGPF71M</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -500,9 +500,9 @@
 			<key>SystemProductName</key>
 			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02TDHYDGG7L</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>E11A3134-FF17-4756-A8E1-FB1E9380678D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

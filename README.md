@@ -52,7 +52,7 @@ Big Sur requires OpenCore 0.6.3. Please update EFI first then upgrade macOS.
 | CFG Lock | Disabled |
 | VT-d | Disabled |
 | Above 4G Decoding | Enabled |
-| Primary Display | PCIE |
+| Primary Display | CPU Graphics |
 | iGPU-Multi-Monitor | Disabled |
 | DVMT Pre-Allocated | 128M |
 | IOAPIC 24-119 Entries | Disabled |
